@@ -1,0 +1,18 @@
+<xml version="1.2">
+  <file original="Test" source-language="en-US" datatype="html" level="0" sequence="0" lastmodified="2026-03-25T08:00:13.126Z" configuration="00000000-0000-0000-0000-000000000000" parentid="" parentype="" jobId="94423">
+    <body>
+      <briefing>
+        <ilangldonottranslate></ilangldonottranslate>
+      </briefing>
+      <group id="CAbGjygT7ZHBfJJ0ZI0sC" elementtype="Content" type="articleLocal" connectorId="f4476e7a-a601-4695-aa96-e0cd58d56321" sequence="0" alignmentSequence="0" changed="true">
+        <group id="richBody" elementtype="Section" type="RichText" connectorId="00000000-0000-0000-0000-000000000000" name="Rich Body" sequence="2" alignmentSequence="0" changed="true" mincharacters="" maxcharacters="50000">
+          <trans-unit comment="" embededLikeXml="false" sequence="0">
+            <source><![CDATA[<section orgnCAbGjygT7ZHBfJJ0ZI0sC='articleLocal_Rich_x0020_Body' eltCAbGjygT7ZHB7fJJ0ZI0sC='closed'><p>Source Tttt 1</p><p></p><p>TTtrrt</p><p></p><p>trhrttrtr</p></section>]]></source>
+            <target><![CDATA[<section orgnCAbGjygT7ZHBfJJ0ZI0sC='articleLocal_Rich_x0020_Body' eltCAbGjygT7ZHB7fJJ0ZI0sC='closed'><p>Target Tttt 1</p><p></p><p>TTtrrt</p><p></p><p>trhrttrtr</p></section>]]></target>
+
+          </trans-unit>
+        </group>
+      </group>
+    </body>
+  </file>
+</xml>
